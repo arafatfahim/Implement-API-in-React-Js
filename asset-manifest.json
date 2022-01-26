@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Implement-API-in-React-Js/static/css/main.0b88cb86.css",
+    "main.js": "/Implement-API-in-React-Js/static/js/main.74355ab8.js",
+    "static/js/787.3eba9518.chunk.js": "/Implement-API-in-React-Js/static/js/787.3eba9518.chunk.js",
+    "index.html": "/Implement-API-in-React-Js/index.html",
+    "main.0b88cb86.css.map": "/Implement-API-in-React-Js/static/css/main.0b88cb86.css.map",
+    "main.74355ab8.js.map": "/Implement-API-in-React-Js/static/js/main.74355ab8.js.map",
+    "787.3eba9518.chunk.js.map": "/Implement-API-in-React-Js/static/js/787.3eba9518.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b88cb86.css",
+    "static/js/main.74355ab8.js"
+  ]
+}
