@@ -1,13 +1,21 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import {BrowserRouter} from 'react-router-dom';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import '@themesberg/flowbite';
+// import Worldwide from './Components/CovidTracker/WorldWide';
+// import PokeApi from './Components/PokeApi/PokeAPi';
+// import App from './Components/RouterDom/App';
+import App from './App';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <>
+  <BrowserRouter>
+    <App />    
+  </BrowserRouter>
+  </>,
   document.getElementById('root')
 );
 
