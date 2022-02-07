@@ -16,7 +16,7 @@ const Navbar = () =>{
            style={({ isActive }) =>
               isActive ? activeStyle : undefined
             }
-            className="rounded-lg px-3 py-2 text-slate-700 font-medium hover:bg-slate-100 hover:text-slate-900"> About Us </NavLink>
+            className="rounded-lg px-3 py-2 text-black font-medium hover:bg-slate-100 hover:text-slate-900"> About Us </NavLink>
 
            <NavLink 
            style={({ isActive }) =>
